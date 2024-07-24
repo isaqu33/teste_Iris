@@ -1,0 +1,455 @@
+{
+    "countries": [
+        {
+            "code": "US",
+            "name": "United States",
+            "states": [
+                {
+                    "code": "CA",
+                    "name": "California",
+                    "cities": [
+                        {
+                            "code": "LA",
+                            "name": "Los Angeles",
+                            "image": "https://s2.static.brasilescola.uol.com.br/be/2023/06/los-angeles.jpg",
+                            "info": "Los Angeles is a large city in Southern California and also the center of the country's film and television industry. Close to the famous Hollywood sign, it is possible to see behind the scenes of productions at Paramount Pictures, Universal and Warner Brothers studios. On Hollywood Boulevard, the TCL Chinese Theater displays hand and foot prints of celebrities on the Walk of Fame, a tribute to thousands of stars, and you can buy maps of artists' homes",
+                            "news": [
+                                {
+                                    "title": "California is the richest state in the USA, representing 15% of the country's GDP. The State, if it were independent, would be the eighth richest country in the world"
+                                },
+                                {
+                                    "title": "The State of California is bisected by the San Andreas fault line. He is literally in a fissure in the Earth."
+                                },
+                                {
+                                    "title": "Yosemite National Park is considered one of the first environmentally protected areas in the USA"
+                                }
+                            ],
+                            "did_you_know": "Los Angeles is the second-most populous city in the United States after New York City."
+                        },
+                        {
+                            "code": "SF",
+                            "name": "San Francisco",
+                            "image": "https://img.freepik.com/free-photo/selective-focus-shot-golden-gate-bridge-covered-fog-san-francisco-california-usa_181624-4735.jpg?ga=GA1.1.1977313884.1721769172&semt=ais_user",
+                            "info": "San Francisco is known for its cool summers, fog, steep rolling hills, eclectic mix of architecture, and landmarks.",
+                            "news": [
+                                {
+                                    "title": "For a unique experience, one of our favourite San Francisco travel tips is to head to the Ross Alley fortune cookie factory in Chinatown. Here, you can watch fortune cookies being made by the dozens and buy them fresh to enjoy yourself!"
+                                },
+                                {
+                                    "title": "Similar to most bridges of the early 20th century, the famous Golden Gate Bridge was originally meant to be black and gold. The bright colour came to be as a result of Irving Morrow, the bridge’s consulting architect, noticing the striking reddish-tinged primer coat that was painted on some of the steel."
+                                },
+                                {
+                                    "title": "If you consider yourself a bit of a history buff and are wondering what there is for you to do in San Francisco, you’ll be pleased to know that you won’t encounter any shortages of experiences and sights. The city is home to more than 200 historic landmark buildings, 11 historical districts and 14,000 Victorian homes. "
+                                }
+                            ],
+                            "did_you_know": "San Francisco is home to the largest and oldest Chinatown in North America."
+                        }
+                    ]
+                },
+                {
+                    "code": "TX",
+                    "name": "Texas",
+                    "cities": [
+                        {
+                            "code": "HOU",
+                            "name": "Houston",
+                            "image": "https://img.freepik.com/free-photo/park-city_1127-3364.jpg?ga=GA1.1.1977313884.1721769172&semt=sph",
+                            "info": "Houston is the most populous city in Texas and is known for its space and science contributions.",
+                            "news": [
+                                {
+                                    "title": "Over 145 languages are spoken in Houston. Apart from prevalent Spanish and English, you would hear German, Vietnamese, Hindi, Chinese, Urdu, Arabic, Welsh and Tagalog."
+                                },
+                                {
+                                    "title": "Houstonians are a cultured bunch. More than 61% of its residents over the age of 25 hold a bachelor’s degree or higher."
+                                },
+                                {
+                                    "title": "It is the second fastest-growing US city, behind New York. This is owed to thriving medicine, engineering, oil, gas and aeronautic industries."
+                                }
+                            ],
+                            "did_you_know": "Houston is home to the Texas Medical Center, the largest medical complex in the world."
+                        },
+                        {
+                            "code": "DAL",
+                            "name": "Dallas",
+                            "image": "https://img.freepik.com/free-photo/cityscape-with-city-skyline-lights-city_1340-44231.jpg?ga=GA1.1.1977313884.1721769172&semt=sph",
+                            "info": "Dallas is a modern metropolis in north Texas, a commercial and cultural hub of the region.",
+                            "news": [
+                                {
+                                    "title": "The Dallas skyline rises abruptly from the surrounding prairie. Among the dominant features are downtown skyscrapers, including the 72-story Bank of America Plaza (formerly NCNB Plaza) building and the 50-story Reunion Tower, high-rise apartments, and the Dallas Convention Center."
+                                },
+                                {
+                                    "title": " Dallas underwent a period of spectacular growth following World War II, resulting in a tripling of the population by 1970."
+                                },
+                                {
+                                    "title": " From its beginning, Dallas has been a marketing center, and today, trade remains the core of the economy. "
+                                }
+                            ],
+                            "did_you_know": "The Dallas-Fort Worth metroplex is the largest inland metropolitan area in the United States."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "BR",
+            "name": "Brazil",
+            "states": [
+                {
+                    "code": "SP",
+                    "name": " São Paulo",
+                    "cities": [
+                        {
+                            "code": "SAO",
+                            "name": "Cidade São Paulo",
+                            "image": "https://img.freepik.com/free-photo/aerial-shot-city-skyline-orange-sky-sunset_181624-19234.jpg?ga=GA1.1.1977313884.1721769172&semt=ais_user",
+                            "info": "São Paulo is the largest city in Brazil, known for its cultural institutions and rich architectural tradition.",
+                            "news": [
+                                {
+                                    "title": "São Paulo is the largest city in Brazil by population, teeming with over 12 million residents."
+                                },
+                                {
+                                    "title": "It’s a cultural melting pot, home to various immigrant communities from Italy, Japan, and Portugal"
+                                },
+                                {
+                                    "title": "The vibrant street art scene in Vila Madalena neighbourhood attracts art enthusiasts from all over."
+                                }
+                            ],
+                            "did_you_know": "São Paulo is the most populous city in the Southern Hemisphere."
+                        },
+                        {
+                            "code": "CMP",
+                            "name": "Campinas",
+                            "image": "https://img.freepik.com/free-photo/complex-aerial-view-city_23-2148975280.jpg?ga=GA1.1.1977313884.1721769172&semt=ais_user",
+                            "info": "Campinas is a Brazilian city in São Paulo State, known for its universities and research centers.",
+                            "news": [
+                                {
+                                    "title": "Campinas is a major center for technological and scientific research in Brazil, housing numerous technology companies and research institutions."
+                                },
+                                {
+                                    "title": "With a history dating back to the 18th century, Campinas boasts a diverse cultural scene, with museums, theaters, and art galleries."
+                                },
+                                {
+                                    "title": "The University of Campinas (UNICAMP) is renowned for its research programs and is consistently ranked among the top universities in Brazil."
+                                }
+                            ],
+                            "did_you_know": "Campinas is home to one of the largest technology parks in Latin America."
+                        }
+                    ]
+                },
+                {
+                    "code": "RJ",
+                    "name": "Rio de Janeiro",
+                    "cities": [
+                        {
+                            "code": "RIO",
+                            "name": "Cidade Rio de Janeiro",
+                            "image": "https://riodejaneirobycariocas.com/wp-content/uploads/2020/05/guanabara-bay-rio-de-janeiro.jpg",
+                            "info": "Rio de Janeiro is famous for its Copacabana and Ipanema beaches, the Christ the Redeemer statue, and Sugarloaf Mountain.",
+                            "news": [
+                                {
+                                    "title": "People who are born and raised in Rio de Janeiro are called Carioca. "
+                                },
+                                {
+                                    "title": "In addition to being the capital of Brazil for two centuries (1763 until 1960), Rio was once the capital of a European country as well! Do you know which one? Portugal, of course!"
+                                },
+                                {
+                                    "title": "The archaeological site received the title of a World Heritage Site by UNESCO in 2017 for being the most important physical trace of the arrival of African slaves on the American continent."
+                                }
+                            ],
+                            "did_you_know": "Rio de Janeiro was the capital of Brazil until 1960."
+                        },
+                        {
+                            "code": "NIT",
+                            "name": "Niterói",
+                            "image": "https://facts.net/wp-content/uploads/2023/07/33-facts-about-niteroi-1688704860.jpg",
+                            "info": "Niterói is known for its contemporary art museum designed by Oscar Niemeyer and beautiful beaches.",
+                            "news": [
+                                {
+                                    "title": "Nestled on the eastern coast of Brazil, Niterói is blessed with stunning beaches, lush mountains, and panoramic views of Guanabara Bay. It truly is a paradise for nature enthusiasts"
+                                },
+                                {
+                                    "title": "Designed by renowned architect Oscar Niemeyer, this awe-inspiring museum is a striking landmark and a testament to Niterói’s cultural significance."
+                                },
+                                {
+                                    "title": "When viewed from above, the layout of Niterói resembles a smile, adding to its charm and character."
+                                }
+                            ],
+                            "did_you_know": "Niterói is home to the largest collection of works by Oscar Niemeyer."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "CA",
+            "name": "Canada",
+            "states": [
+                {
+                    "code": "ON",
+                    "name": "Ontario",
+                    "cities": [
+                        {
+                            "code": "TOR",
+                            "name": "Toronto",
+                            "image": "https://cdn.shortpixel.ai/spai/w_647+q_lossy+ret_img+to_webp/funworldfacts.com/wp-content/uploads/2022/01/ontario-facts.jpg",
+                            "info": "Toronto is the capital city of the province of Ontario, known for its skyscrapers and high-rises.",
+                            "news": [
+                                {
+                                    "title": "It is the westernmost province of Eastern Canada, along with Québec, New Brunswick, Nova Scotia, Newfoundland and Labrador, and Prince Edward Island."
+                                },
+                                {
+                                    "title": "Ontario is one of the 13 provinces and territories of Canada."
+                                },
+                                {
+                                    "title": "Ontario is one of the 13 provinces and territories of Canada."
+                                }
+                            ],
+                            "did_you_know": "Toronto is the most populous city in Canada and the fourth most populous city in North America."
+                        },
+                        {
+                            "code": "OTT",
+                            "name": "Ottawa",
+                            "image": "https://ottawathingstodo.com/wp-content/uploads/2022/06/ottawa-canada-flag-parliament.avif",
+                            "info": "Ottawa is the capital city of Canada, known for its political and cultural significance.",
+                            "news": [
+                                {
+                                    "title": "There is a literal glass house in Ottawa. In Rockliffe Park, you can find a walking trail to a copper and glass house made by Michael Cowpland."
+                                },
+                                {
+                                    "title": "There are legal graffiti areas around the city. These include under bridges, like on Dunbar Bridge. You can also find outdoor galleries under the Chaudiere Bridge."
+                                },
+                                {
+                                    "title": "Ottawa is in the Arctic … ish. Mer Bleue Bog is actually an Arctic microclimate. It’s a 7,000 year old microclimate that you can easily visit from Ottawa."
+                                }
+                            ],
+                            "did_you_know": "Ottawa is the fourth largest city in Canada by population."
+                        }
+                    ]
+                },
+                {
+                    "code": "BC",
+                    "name": "British Columbia",
+                    "cities": [
+                        {
+                            "code": "VAN",
+                            "name": "Vancouver",
+                            "image": "https://www.canadiantraveller.com/CDN/12/image/Dollar_Photo_Club_Download.jpg",
+                            "info": "Vancouver is a major city in western Canada, located in the Lower Mainland region of British Columbia.",
+                            "news": [
+                                {
+                                    "title": "We have the only wind turbine in the world, the Eye of the Wind. "
+                                },
+                                {
+                                    "title": "We have the largest and most diverse port in Canada. This port is located in downtown Vancouver at 999 Canada Place, just 30 minutes from Vancouver International Airport (YVR)."
+                                },
+                                {
+                                    "title": "Greenpeace, the world’s most successful eco-activist organization, was founded here in 1971. "
+                                }
+                            ],
+                            "did_you_know": "Vancouver has been named one of the top five worldwide cities for livability and quality of life."
+                        },
+                        {
+                            "code": "VIC",
+                            "name": "Victoria",
+                            "image": "https://www.victoriabuzz.com/wp-content/uploads/2018/11/Victoria-BC-Canada-Getty-696x522.jpg",
+                            "info": "Victoria is the capital city of British Columbia, known for its historic architecture and vibrant cultural scene.",
+                            "news": [
+                                {
+                                    "title": "Victoria was established in 1843, a full 43 years before the birth of Vancouver."
+                                },
+                                {
+                                    "title": "The waters encircling Victoria are home to five species of whales."
+                                },
+                                {
+                                    "title": "The Empress Hotel serves more than 500,000 cups of tea annually."
+                                }
+                            ],
+                            "did_you_know": "Victoria is known as the 'City of Gardens' because of its many beautiful gardens and parks."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "AU",
+            "name": "Australia",
+            "states": [
+                {
+                    "code": "NSW",
+                    "name": "New South Wales",
+                    "cities": [
+                        {
+                            "code": "SYD",
+                            "name": "Sydney",
+                            "image": "https://img.freepik.com/free-photo/dirt-road-near-grassy-hill-sea-with-mountain-distance-blue-sky_181624-1680.jpg?ga=GA1.1.1977313884.1721769172&semt=ais_user",
+                            "info": "Sydney is the state capital of New South Wales and the most populous city in Australia.",
+                            "news": [
+                                {
+                                    "title": "Sydney is known for its Sydney Opera House and the Sydney Harbour Bridge."
+                                },
+                                {
+                                    "title": "Bondi Beach in Sydney is one of the most famous beaches in the world."
+                                },
+                                {
+                                    "title": "Sydney hosted the 2000 Summer Olympics."
+                                }
+                            ],
+                            "did_you_know": "Sydney is the largest city in Australia."
+                        },
+                        {
+                            "code": "NEW",
+                            "name": "Newcastle",
+                            "image": "https://img.freepik.com/free-photo/aerial-shot-newcastle-island-near-nanaimo-vancouver-island-canada_181624-61156.jpg?ga=GA1.1.1977313884.1721769172&semt=sph",
+                            "info": "Newcastle is a harbour city in New South Wales, Australia, known for its coal, beaches, and port.",
+                            "news": [
+                                {
+                                    "title": "Newcastle is the world's largest coal export port."
+                                },
+                                {
+                                    "title": "Newcastle has beautiful beaches like Nobbys Beach and Merewether Beach."
+                                },
+                                {
+                                    "title": "The Hunter Valley wine region is nearby, known for its vineyards and wineries."
+                                }
+                            ],
+                            "did_you_know": "Newcastle is the second-most populous city in New South Wales."
+                        }
+                    ]
+                },
+                {
+                    "code": "VIC",
+                    "name": "Victoria",
+                    "cities": [
+                        {
+                            "code": "MEL",
+                            "name": "Melbourne",
+                            "image": "https://img.freepik.com/free-photo/big-city-park-melbourne_1150-12664.jpg?ga=GA1.1.1977313884.1721769172&semt=sph",
+                            "info": "Melbourne is the coastal capital of the southeastern Australian state of Victoria.",
+                            "news": [
+                                {
+                                    "title": "Melbourne is known for its vibrant arts scene and cultural diversity."
+                                },
+                                {
+                                    "title": "The city is famous for its coffee culture and numerous cafes."
+                                },
+                                {
+                                    "title": "Melbourne hosts the Australian Open, one of the four Grand Slam tennis tournaments."
+                                }
+                            ],
+                            "did_you_know": "Melbourne has been ranked as one of the world's most liveable cities."
+                        },
+                        {
+                            "code": "GEE",
+                            "name": "Geelong",
+                            "image": "https://img.freepik.com/free-photo/panoramic-shot-stony-shoreline-with-sun-horizon_181624-13556.jpg?ga=GA1.1.1977313884.1721769172&semt=ais_user",
+                            "info": "Geelong is a port city in Victoria, Australia, known for its waterfront and historic buildings.",
+                            "news": [
+                                {
+                                    "title": "Geelong is home to the Geelong Football Club, also known as the Geelong Cats."
+                                },
+                                {
+                                    "title": "The city has a thriving arts scene with galleries, theaters, and live music venues."
+                                },
+                                {
+                                    "title": "Geelong's Eastern Beach is a popular destination for locals and tourists."
+                                }
+                            ],
+                            "did_you_know": "Geelong is Victoria's second largest city."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "UK",
+            "name": "United Kingdom",
+            "states": [
+                {
+                    "code": "ENG",
+                    "name": "England",
+                    "cities": [
+                        {
+                            "code": "LON",
+                            "name": "London",
+                            "image": "https://img.freepik.com/free-photo/big-ben-westminster-bridge-sunset-london-uk_268835-1395.jpg?ga=GA1.1.1977313884.1721769172&semt=sph",
+                            "info": "London is the capital and largest city of England and the United Kingdom.",
+                            "news": [
+                                {
+                                    "title": "London is home to the iconic Big Ben and the Houses of Parliament."
+                                },
+                                {
+                                    "title": "The city has numerous museums and art galleries, including the British Museum and the National Gallery."
+                                },
+                                {
+                                    "title": "London hosts the Wimbledon Tennis Championships, the oldest tennis tournament in the world."
+                                }
+                            ],
+                            "did_you_know": "London is one of the world's leading financial centers."
+                        },
+                        {
+                            "code": "MAN",
+                            "name": "Manchester",
+                            "image": "https://img.freepik.com/free-photo/wide-shot-tall-glass-buildings-london-near-lake_181624-3311.jpg?ga=GA1.1.1977313884.1721769172&semt=ais_user",
+                            "info": "Manchester is a major city in England with a rich industrial heritage.",
+                            "news": [
+                                {
+                                    "title": "Manchester is known for its music scene, producing bands like Oasis and The Smiths."
+                                },
+                                {
+                                    "title": "The city is home to two Premier League football clubs, Manchester United and Manchester City."
+                                },
+                                {
+                                    "title": "Manchester has a vibrant arts scene, with galleries, theaters, and live music venues."
+                                }
+                            ],
+                            "did_you_know": "Manchester was the world's first industrialized city."
+                        }
+                    ]
+                },
+                {
+                    "code": "SCT",
+                    "name": "Scotland",
+                    "cities": [
+                        {
+                            "code": "EDI",
+                            "name": "Edinburgh",
+                            "image": "https://img.freepik.com/free-photo/vertical-shot-cliff-by-water-clear-sky-with-clouds_181624-2000.jpg?ga=GA1.1.1977313884.1721769172&semt=ais_user",
+                            "info": "Edinburgh is the capital city of Scotland, known for its historic and cultural attractions.",
+                            "news": [
+                                {
+                                    "title": "Edinburgh hosts the annual Edinburgh Festival Fringe, the world's largest arts festival."
+                                },
+                                {
+                                    "title": "The city is famous for its historic and iconic Edinburgh Castle."
+                                },
+                                {
+                                    "title": "Arthur's Seat is a popular hiking destination offering panoramic views of the city."
+                                }
+                            ],
+                            "did_you_know": "Edinburgh's Old Town and New Town are UNESCO World Heritage Sites."
+                        },
+                        {
+                            "code": "GLA",
+                            "name": "Glasgow",
+                            "image": "https://img.freepik.com/free-photo/view-thames-river-london-city_23-2149437434.jpg?ga=GA1.1.1977313884.1721769172&semt=ais_user",
+                            "info": "Glasgow is the largest city in Scotland, known for its vibrant culture and architecture.",
+                            "news": [
+                                {
+                                    "title": "Glasgow is home to the Scottish Opera, Scottish Ballet, and National Theatre of Scotland."
+                                },
+                                {
+                                    "title": "The city has a rich architectural heritage, including works by Charles Rennie Mackintosh."
+                                },
+                                {
+                                    "title": "Glasgow hosts numerous festivals throughout the year, including the Glasgow International Comedy Festival and the Glasgow Film Festival."
+                                }
+                            ],
+                            "did_you_know": "Glasgow's nickname is 'Dear Green Place' due to its many parks and green spaces."
+                        }
+                    ]
+                }
+            ]
+        }
+
+    ]
+}
